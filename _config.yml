@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Travis Crowell"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio.jpg"
   bio              : "Data Analyst, Data Scientis, Manufactering Manager"
   location         : "Syracuse, NY"
   email            :
