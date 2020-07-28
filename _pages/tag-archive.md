@@ -1,9 +1,9 @@
----
+___
 title: "Posts by Tag"
 permalink: /pages/tags/
 layout: tags
 author_profile: true
----
+___
 
 {% include group-by-array collection=site.posts field="tags" %}
 
