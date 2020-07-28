@@ -1,4 +1,4 @@
-___
+---
 title: "Posts by Tag"
 permalink: /pages/tags/
 layout: tags
