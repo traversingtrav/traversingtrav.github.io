@@ -1,11 +1,11 @@
----
-title: "Analyst projects"
+___
++title: "Analyst projects"
 layout: single
 author: true
 permalink: /projects/
----
+___
 
-change 7 
+change 8 
 
 {% include group-by-array collection=site.posts field="tags" %}
 
