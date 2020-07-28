@@ -268,9 +268,9 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
@@ -282,7 +282,7 @@ defaults:
 
    # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
