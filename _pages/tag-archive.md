@@ -1,6 +1,7 @@
 ---
 title: "Posts by Tag"
 permalink: /tags/
+
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
