@@ -5,7 +5,7 @@ author: true
 permalink: /projects/
 ---
 
-I am a 
+change 7 
 
 {% include group-by-array collection=site.posts field="tags" %}
 
