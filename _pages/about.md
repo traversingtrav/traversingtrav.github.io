@@ -1,9 +1,8 @@
 ____
-title: "Page Not Found"
+title: "About"
 layout: single
-Excerpt: "Page not found."
-sitemap: false
-permalink: /404.html
+author: true
+permalink: /about/
 ___
 
 I am a data scientist
