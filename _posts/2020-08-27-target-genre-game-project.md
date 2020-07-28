@@ -1,14 +1,7 @@
----
-title: "Post: Chat"
-categories:
-  - Post Formats
-tags:
-  - chat
-  - Post Formats
-
----
-
-
+____
+layout: posts
+author: true
+___
 
 Data Analyst Project What Game Should We Build First
 Objective
