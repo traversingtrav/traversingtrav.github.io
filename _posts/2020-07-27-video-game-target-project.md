@@ -1,7 +1,4 @@
-___
-layout: post
-title: "game platform and genere target project"
-___
+
 
 
 
