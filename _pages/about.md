@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /pages/about/
 title: "About"
 header:
   image: /images/bike.jpg
