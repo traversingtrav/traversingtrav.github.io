@@ -1,9 +1,9 @@
-____
+---
 title: "Analyst projects"
 layout: single
 author: true
 permalink: /projects/
-____
+---
 
 I am a 
 

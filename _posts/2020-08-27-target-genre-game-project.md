@@ -1,7 +1,12 @@
-____
-layout: posts
-author: true
-___
+---
+title: "Post: Standard"
+categories:
+  - Post Formats
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
 
 Data Analyst Project What Game Should We Build First
 Objective
