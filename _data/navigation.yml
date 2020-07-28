@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /_pages/about/
   - title: "Analysis Projects"
-    url: /_pages/analysisprojects/
+    url: /_pages/tag-archive/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
