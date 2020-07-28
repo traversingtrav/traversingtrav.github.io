@@ -4,6 +4,7 @@ title: "game platform and genere target project"
 ---
 
 
+
 Data Analyst Project What Game Should We Build First
 Objective
 	In this project I would like to determine what genera and platform we should use for our first video game launch.
