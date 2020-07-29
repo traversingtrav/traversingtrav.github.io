@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Travis Crowell"
-  avatar           : /images/bio1.jpg
+  avatar           : "/images/bio1.jpg/""
   bio              : "Data scientist, Data analyst, Manufacturing manager"
   location         : "Syracuse, NY"
   employer         :
