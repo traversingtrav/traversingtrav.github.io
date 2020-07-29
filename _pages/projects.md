@@ -1,11 +1,11 @@
 ---
-+title: "Analyst projects"
-layout: single
-author: true
-permalink: /projects/
++title:  "Analyst projects"
+layout:  single
+author:  true
+permalink:  /projects/
 ---
 
-change 12
+change 14
 
 {% include group-by-array collection=site.posts field="tags" %}
 

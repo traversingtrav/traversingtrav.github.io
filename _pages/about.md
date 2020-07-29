@@ -1,14 +1,14 @@
+___
 
+-title:  "About"
 
--title: "About"
+layout:  single
 
-layout: single
+author:  true
 
-author: true
-
-permalink: /about/
+permalink:  /about/
 
 ___
 
-change 12
+change 14
 I am a data scientist

@@ -1,5 +1,5 @@
-
-title: "Post: Standard"
+---
+title:  "Post: Standard"
 categories:
   - Post Formats
 tags:
@@ -7,7 +7,7 @@ tags:
   - readability
   - standard
 ---
-change 11
+change 14
 
 Data Analyst Project What Game Should We Build First
 Objective
