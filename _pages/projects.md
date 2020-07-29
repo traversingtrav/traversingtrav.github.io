@@ -5,7 +5,7 @@ author: true
 permalink: /projects/
 ___
 
-change 8 
+change 9 
 
 {% include group-by-array collection=site.posts field="tags" %}
 
