@@ -1,12 +1,10 @@
 ---
+layout: single
 header:
   image: /images/bike.jpg/
-  ---
+---
 
 <img src="/images/bike.jpg" alt=""/>
-why
-
-(/images/bike.jpg)
 
 
 # About
