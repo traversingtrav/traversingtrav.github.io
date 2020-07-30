@@ -1,7 +1,11 @@
+---
+header:
+  image: /images/bike.jpg/
+---
 
 ![alt text][https://github.com/traversingtrav/images/bike.jpg]
 
-[logo]: https://github.com/traversingtrav/images/bike.jpg
+[logo]: /images/bike.jpg/
 
 
 # About
