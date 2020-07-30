@@ -1,5 +1,7 @@
 
-[logo]: /images/bike.jpg
+![alt text][logo]
+
+[logo]: https://github.com/traversingtrav/images/bike.jpg
 
 
 # About
