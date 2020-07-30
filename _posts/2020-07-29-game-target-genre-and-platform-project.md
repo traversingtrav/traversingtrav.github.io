@@ -1,3 +1,6 @@
+---
+layout: post
+---
 
 # Data Analyst Project What Game Should We Build First
 
@@ -11,7 +14,7 @@ Data Source
 
 Collection Method
 
->I will “SSH” remote access our cloud server to run a search on existing data with a filter to copy lines containing key words (i.e. video game platforms) to a new file.  I will “SCP” the new file to my computer for further analysis. I will also search free data sources such as Kaggle for pertinent data. 
+>I will â€œSSHâ€ remote access our cloud server to run a search on existing data with a filter to copy lines containing key words (i.e. video game platforms) to a new file.  I will â€œSCPâ€ the new file to my computer for further analysis. I will also search free data sources such as Kaggle for pertinent data. 
 
 ssh -i /path/my-key-pair.pem my-instance-user-name@my-instance-public-dns-name
 
