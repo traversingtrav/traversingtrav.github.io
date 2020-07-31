@@ -1,5 +1,6 @@
 ---
 layout: single
+athour_profile: true
 header:
   image: /images/bike.jpg/
 ---

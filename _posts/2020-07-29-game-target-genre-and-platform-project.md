@@ -1,5 +1,6 @@
 ---
 layout: post
+author_profile: true
 ---
 
 # Data Analyst Project What Game Should We Build First
