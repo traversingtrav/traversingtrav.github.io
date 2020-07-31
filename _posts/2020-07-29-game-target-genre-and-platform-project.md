@@ -44,7 +44,9 @@ For additional cross reference I will also build an interactive dashboard for th
 
 <img src="/images/project-1/title-list.jpg" alt=""/>
 
-https://public.tableau.com/profile/travis.crowell#!/
+<img src="/images/project-1/title-sales.jpg" alt=""/>
+
+<https://public.tableau.com/profile/travis.crowell#!/>
 
 Results
 
